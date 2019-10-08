@@ -1,6 +1,5 @@
 .env/
 
 *.pyc
-*.txt
 
 out/
